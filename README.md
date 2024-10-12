@@ -4,3 +4,8 @@
 <p align = "center">
   <img src = "ตัวอย่าง.png" width = "60%">
 </p>
+
+# ✨ Blynk
+<p align="center">
+  <img src="IMG.png" width="50%">
+</p>
